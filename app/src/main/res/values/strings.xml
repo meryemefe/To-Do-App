@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">To-Do App</string>
+    <string name="create_task_top_name">Create New Task</string>
+    <string name="task_details_top_name">Task Details</string>
+    <string name="search_menu_item">Search</string>
+    <string name="option1">HIGH</string>
+    <string name="option2">MEDIUM</string>
+    <string name="option3">LOW</string>
+    <string name="create_button_name">CREATE TASK</string>
+    <string name="line_text">TASK NAME - DEADLINE - PRIORITY</string>
+    <string name="task_name_text">Task Name</string>
+    <string name="deadline_text">Deadline</string>
+    <string name="priority_text"> Priority</string>
+    <string name="update_button_name">UPDATE TASK</string>
+    <string name="fab_description">ADD</string>
+    <string name="task_created_message">Task is successfully created!</string>
+    <string name="task_updated_message">Task is successfully updated!</string>
+    <string name="task_delete_confirmation">Are you sure to delete this task?</string>
+    <string name="positive_answer">YES</string>
+    <string name="negative_answer">NO</string>
+    <string name="task_deleted_message">task is successfully deleted!</string>
+</resources>

@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Yapılacaklar Uygulaması</string>
+    <string name="create_task_top_name">Yeni İş Oluştur</string>
+    <string name="task_details_top_name">İş Detayları</string>
+    <string name="search_menu_item">Ara</string>
+    <string name="option1">YÜKSEK</string>
+    <string name="option2">ORTA</string>
+    <string name="option3">DÜŞÜK</string>
+    <string name="create_button_name">İŞ OLUŞTUR</string>
+    <string name="line_text">İŞ ADI - SON TARİH - ÖNCELİK</string>
+    <string name="task_name_text">İş Adı</string>
+    <string name="deadline_text">Son Tarih</string>
+    <string name="priority_text">Öncelik</string>
+    <string name="update_button_name">İŞİ GÜNCELLE</string>
+    <string name="fab_description">EKLE</string>
+    <string name="task_created_message">İş başarıyla eklendi!</string>
+    <string name="task_updated_message">İş başarıyla güncellendi!</string>
+    <string name="task_delete_confirmation">Bu işi silmek istediğinizden emin misiniz?</string>
+    <string name="positive_answer">EVET</string>
+    <string name="negative_answer">HAYIR</string>
+    <string name="task_deleted_message">işi başarıyla silindi!</string>
+</resources>
